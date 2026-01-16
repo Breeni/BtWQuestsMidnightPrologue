@@ -57,6 +57,7 @@ new_read_globals = {
     'LE_EXPANSION_SHADOWLANDS',
     'LE_EXPANSION_DRAGONFLIGHT',
     'LE_EXPANSION_THE_WAR_WITHIN',
+    'LE_EXPANSION_MIDNIGHT',
 
     -- Deprecated API Functions
     'IsQuestFlaggedCompleted',
@@ -203,6 +204,7 @@ new_read_globals = {
     'GetDifficultyInfo',
     'geterrorhandler',
     'GetExpansionLevel',
+    'GetServerExpansionLevel',
     'GetFactionInfo',
     'GetFactionInfoByID',
     'GetFlyoutInfo',
