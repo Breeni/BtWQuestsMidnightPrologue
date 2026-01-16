@@ -133,8 +133,9 @@ Database:AddChain(Chain.RageOfTheRendorei, {
             type = "chain",
             id = 110713,
             completed = {
-                type = "quest",
-                id = 91044,
+                type = "achievement",
+                id = 42739,
+                criteria = 3,
             },
         },
     },
