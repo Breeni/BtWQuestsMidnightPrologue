@@ -123,7 +123,6 @@ Database:AddChain(Chain.RageOfTheRendorei, {
     questline = 6043,
     expansion = EXPANSION_ID,
     range = { 80, 90 },
-    major = true,
     prerequisites = {
         {
             type = "level",
