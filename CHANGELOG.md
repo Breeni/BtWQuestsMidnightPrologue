@@ -1,3 +1,7 @@
+# v1.2
+
+- Updated for 12.0.5
+
 # v1.1
 
 - Updated for Midnight release
